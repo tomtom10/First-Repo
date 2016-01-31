@@ -1,3 +1,2 @@
 # First-Repo
-test
-Test 2
+This is a README file.
